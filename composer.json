@@ -1,12 +1,12 @@
 {
-    "name": "khsing/world",
+    "name": "fgoldoni/laravel-world",
     "description": "Provide countries, states, and cities relations database.",
     "keywords": [ "world", "country", "city", "region" ],
     "type": "library",
     "license": "MIT",
     "require": {
         "php": ">7.3|^8.0",
-        "laravel/framework" : "^8.0|^9.0"
+        "laravel/framework" : "^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
