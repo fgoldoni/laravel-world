@@ -16,3 +16,5 @@ bootstrap/cache/
 
 # tests for this projects
 /example.php
+
+/.idea
